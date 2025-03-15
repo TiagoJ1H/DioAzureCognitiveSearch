@@ -4,4 +4,4 @@ Após criar e configurar o Azure AI Search, Azure AI services e o Storage accoun
 search={area da informação}"{o que ela contem}"
 Exemplo:
 search=sentiment"positive"
-Mostra os reviews que estam como positivo na area sentiment
+Mostra os reviews que estam como "positive" na area "sentiment"
